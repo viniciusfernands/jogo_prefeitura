@@ -10,9 +10,9 @@ Nesta seção, você conhece os responsáveis por esta expedição e os portais 
 
 * **Vinicius Fernandes**  
 * **Ygor Luiz Volstein**  
-* **Guilherme**  
-* **Gabriel**  
-* **Vinicius 2**
+* **Guilherme Fernando Lopes**  
+* **Gabriel Henrique Zingelerski**  
+* **Vinicius Olinger Baptista**
 
 ### **🔗 Portais Úteis**
 
