@@ -9,7 +9,7 @@ Nesta seção, você conhece os responsáveis por esta expedição e os portais 
 ### **👥 Equipe de Exploradores**
 
 * **Vinicius Fernandes**  
-* **Ygor Luis Volstein**  
+* **Ygor Luiz Volstein**  
 * **Guilherme**  
 * **Gabriel**  
 * **Vinicius 2**
