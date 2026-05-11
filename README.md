@@ -4,7 +4,7 @@ Bem-vindo ao **A História de Brusque**\! Este é um projeto lúdico desenvolvid
 
 ## **📖 Menu de Introdução: Sobre o Projeto**
 
-Nesta seção, você conhece os responsáveis por esta expedição e os portais para acessar o tesouro (o código)\!
+Nesta seção, você conhece os responsáveis por esta expedição e os portais para acessar o código\!
 
 ### **👥 Equipe de Exploradores**
 
@@ -25,11 +25,11 @@ Para construir este jogo, nossa equipe dividiu a jornada em tarefas diárias. Aq
 
 | Dia | Tarefa | Responsável | Status   |
 | :---- | :---- | :---- | :---- |
-| **Segunda** | Pesquisa histórica e criação das 15 perguntas. | Todos | ⏳ Em breve |
-| **Terça** | Desenho do Protótipo (como o jogo vai parecer). | Design Team | ⏳ Em breve |
-| **Quarta** | Estruturação do HTML e estilo básico (CSS). | Dev Team | ⏳ Em breve |
-| **Quinta** | Programação da lógica do Quiz (JavaScript). | Dev Team | ⏳ Em breve |
-| **Sexta** | Testes finais, correção de erros e publicação. | Todos | ⏳ Em breve |
+| **Segunda** | Reunião de orientações gerais. | Todos | ✅ Check |
+| **Terça** | Ajustes iniciais com o Grupo. | Todos | ⏳ Em breve |
+| **Quarta** | Criação do Reposotório. | Dev Team | ⏳ Em breve |
+| **Quinta** | Desenvolvimento do Projeto. | Dev Team | ⏳ Em breve |
+| **Sexta** | Publicação da Primeira Versão. | Todos | ⏳ Em breve |
 
 ## **🏆 Requisitos da Missão (Entregáveis)**
 
