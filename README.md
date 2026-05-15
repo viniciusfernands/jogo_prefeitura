@@ -29,7 +29,7 @@ Para construir este jogo, nossa equipe dividiu a jornada em tarefas diárias. Aq
 | **Terça** | Ajustes iniciais com o Grupo. | Todos | ✅ Check |
 | **Quarta** | Criação do Reposotório. | Dev Team | ✅ Check |
 | **Quinta** | Desenvolvimento do Projeto. | Dev Team | ✅ Check |
-| **Sexta** | Publicação da Primeira Versão. | Todos | ⏳ Em breve |
+| **Sexta** | Publicação da Primeira Versão. | Todos | ✅ Check |
 
 ## **🏆 Requisitos da Missão (Entregáveis)**
 
